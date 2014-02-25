@@ -1,4 +1,4 @@
-import time
+﻿import time
 from Tkinter import Tk
 r = Tk()
 r.withdraw()
